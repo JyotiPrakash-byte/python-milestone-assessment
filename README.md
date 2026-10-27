@@ -18,4 +18,3 @@ Topic Covered
 10)Exception handling
 11)Dictionaries
 12)Context Manager
-    
